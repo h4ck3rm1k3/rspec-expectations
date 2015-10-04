@@ -17,3 +17,5 @@ bundle
 .rspec-local
 spec/examples.txt
 specs.out
+/Gemfile.orig
+/rspec-expectations.gemspec.orig
